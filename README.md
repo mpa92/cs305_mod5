@@ -4,7 +4,6 @@ users to input phrases or sentences that can be transformed into a movie.
 
 # Description
 The aim is to create something more sophisticated than static AI artwork.
-We are currently working on keeping consistency between frames with stable diffusion.
 
 # Authors
 Melvin / Forrest / Steven / Kira 
